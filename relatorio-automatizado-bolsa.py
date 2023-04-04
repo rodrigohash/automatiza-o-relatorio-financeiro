@@ -103,7 +103,7 @@ retorno_ano_ibovespa
 msg = EmailMessage()
 msg['Subject'] = "Enviando e-mail com o Python"
 msg['From'] = 'seuemail@gmail.com'
-msg['To'] = 'brenno@varos.com.br'
+msg['To'] = 'diretor12@gmail.com'
 
 msg.set_content(f'''Prezado diretor, segue o relatório diário:
 
