@@ -1,5 +1,5 @@
 Projeto de Automatização de Relatórios Financeiros
-Este é um projeto desenvolvido com o objetivo de economizar tempo e evitar erros em relatórios financeiros manuais. A proposta é oferecer um sistema automatizado de geração de relatórios financeiros para diretores, facilitando o acesso e a visualização dos dados financeiros de uma empresa.
+Este é um projeto desenvolvido com o objetivo de economizar tempo e evitar erros em relatórios financeiros manuais. A proposta é oferecer um sistema automatizado de geração de relatórios financeiros para diretores, facilitando o acesso e a visualização dos dados financeiros da bolsa de valores.
 
 Funcionalidades
 O sistema automatizado de relatórios financeiros possui as seguintes funcionalidades:
